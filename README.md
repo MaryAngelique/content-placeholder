@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Content Placeholder GitHub Solution](https://github.com/MaryAngelique/content-placeholder)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
